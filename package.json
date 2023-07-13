@@ -1,0 +1,10 @@
+{
+	"name": "checkvalidator",
+	"description": "Periodically check the W3C feed validator to see if it validates a specific feed.",
+	"version": "0.4.0",
+	"main": "checkvalidator.js",
+	"dependencies" : {
+		"daveutils": "*",
+		"request": "*"
+		}
+	}
